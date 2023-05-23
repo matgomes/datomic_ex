@@ -1,0 +1,2 @@
+;; {:stubs {:generation {:namespaces #{"datomic.api" "com.ericsson.otp.erlang"}}}}
+{:stubs {:generation {:namespaces #{"datomic.api"}}}}
